@@ -3,7 +3,7 @@
 * Run tests using:\
 `behave`\
 `behave --tags=login`
-* Install:
+* Install:\
 `behave-html-formatter`
 * Generate reports:\
 `behave -f behave_html_formatter:HTMLFormatter -o name-of-the-report.html`
