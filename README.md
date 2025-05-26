@@ -1,7 +1,7 @@
 **BDD PracticeAutomation** - Created with Selenium Python using Gherkin syntax for feature file.
 
-* Run tests using:
-`behave` \
+* Run tests using:\
+`behave`\
 `behave --tags=login`
 * Install:
 `behave-html-formatter`
