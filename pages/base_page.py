@@ -6,3 +6,5 @@ class BasePage(Browser):
         self.chrome.get("https://practicetestautomation.com/practice-test-login/")
     def access_elements_page(self):
         self.chrome.get("https://demoqa.com/")
+    def demoblaze_page(self):
+        self.chrome.get("https://demoblaze.com/")
